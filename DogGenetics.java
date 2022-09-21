@@ -1,3 +1,5 @@
+package JavaBasicAssessment;
+
 import java.util.Scanner;
 import java.util.concurrent.ThreadLocalRandom;
 

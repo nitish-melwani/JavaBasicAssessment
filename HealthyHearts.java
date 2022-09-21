@@ -1,3 +1,4 @@
+package JavaBasicAssessment;
 import java.util.Scanner;
 
 public class HealthyHearts {

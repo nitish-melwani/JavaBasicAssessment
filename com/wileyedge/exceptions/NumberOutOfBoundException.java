@@ -1,4 +1,4 @@
-package com.wileyedge.exceptions;
+package JavaBasicAssessment.com.wileyedge.exceptions;
 
 public class NumberOutOfBoundException extends Exception{
 	public NumberOutOfBoundException() {

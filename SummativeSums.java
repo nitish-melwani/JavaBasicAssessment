@@ -1,4 +1,4 @@
-
+package JavaBasicAssessment;
 public class SummativeSums {
 	
 	public static int ArrayAdds(int [] arr) { //returns the total of each int in the array

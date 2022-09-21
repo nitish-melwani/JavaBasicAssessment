@@ -1,9 +1,10 @@
+package JavaBasicAssessment;
 import java.util.Scanner;
 import java.util.concurrent.ThreadLocalRandom;
 
 import javax.naming.directory.InvalidAttributesException;
 
-import com.wileyedge.exceptions.NumberOutOfBoundException;
+import JavaBasicAssessment.com.wileyedge.exceptions.NumberOutOfBoundException;
 
 public class RockPaperScissors {
 	public static boolean playing = true;
